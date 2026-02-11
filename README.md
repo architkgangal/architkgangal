@@ -5,7 +5,7 @@
 #### "The best way to predict the future is to invent it." ~ Alan Kay
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=architgangal&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img src="https://github.com/architkgangal/architkgangal/blob/main/Prof_image.jpeg" alt="Archit Gangal" width="300" style="border-radius: 50%;" />
 </p>
 
 ---
