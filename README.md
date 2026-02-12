@@ -10,7 +10,7 @@
 
 ---
 
-💻 **Architecting the Future of Financial Services Technology** – With 6+ years of progressive experience, I transform complex business requirements into scalable, resilient cloud-native solutions. From modernizing legacy insurance platforms to building high-throughput transaction processing systems, I bridge the gap between cutting-edge technology and mission-critical enterprise systems. 🚀✨
+ **Architecting the Future of Financial Services Technology** – With 6+ years of progressive experience, I transform complex business requirements into scalable, resilient cloud-native solutions. From modernizing legacy insurance platforms to building high-throughput transaction processing systems, I bridge the gap between cutting-edge technology and mission-critical enterprise systems. 
 
 [![Email Badge](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:archit.gangal@yahoo.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archit-k-gangal/)
@@ -19,17 +19,17 @@
 
 ---
 
-## 🎯 What I Do
+##  What I Do
 
-🌱 **Expert in:** Java/J2EE, Spring Boot, Python, Microservices, AWS Cloud Architecture, Event-Driven Systems (Kafka), React.js, and enterprise-scale database design
+ **Expert in:** Java/J2EE, Spring Boot, Python, Microservices, AWS Cloud Architecture, Event-Driven Systems (Kafka), React.js, and enterprise-scale database design
 
-❤️ **Passionate about:** Building resilient distributed systems, implementing AI/ML in production workflows, and driving digital transformation in financial services
+ **Passionate about:** Building resilient distributed systems, implementing AI/ML in production workflows, and driving digital transformation in financial services
 
-💬 **Specialized in:** Enterprise Architecture, Solution Design, Cloud-Native Development, CI/CD Automation, and Performance Optimization
+ **Specialized in:** Enterprise Architecture, Solution Design, Cloud-Native Development, CI/CD Automation, and Performance Optimization
 
-⚡ **Fun fact:** I combine technical precision with creative problem-solving – whether it's optimizing a Kubernetes cluster or architecting a new microservice ecosystem!
+ **Fun fact:** I combine technical precision with creative problem-solving – whether it's optimizing a Kubernetes cluster or architecting a new microservice ecosystem!
 
-🔍 **Current Focus:** Advancing expertise in Enterprise Architecture patterns, distributed systems design, and emerging AI/ML technologies for production environments
+ **Current Focus:** Advancing expertise in Enterprise Architecture patterns, distributed systems design, and emerging AI/ML technologies for production environments
 
 ---
 
@@ -85,56 +85,56 @@
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
-### 🏢 Allstate Insurance (Aug 2022 – Jul 2024)
+###  Allstate Insurance (Aug 2022 – Jul 2024)
 **Senior Full Stack Developer & Solution Architect**
-- 🎯 Led architecture modernization from monoliths to microservices using Java 17 & Spring Boot
-- ⚡ Architected ETL platforms processing **1M+ daily transactions** with 99.7% uptime
-- 🚀 Reduced deployment time by **47%** and improved system maintainability by **43%**
-- 🔧 Implemented OAuth2 security, Kafka streaming, and AWS cloud-native patterns
+-  Led architecture modernization from monoliths to microservices using Java 17 & Spring Boot
+-  Architected ETL platforms processing **1M+ daily transactions** with 99.7% uptime
+-  Reduced deployment time by **47%** and improved system maintainability by **43%**
+-  Implemented OAuth2 security, Kafka streaming, and AWS cloud-native patterns
 
-### 🏢 Capgemini (Mar 2021 – Aug 2022)
+###  Capgemini (Mar 2021 – Aug 2022)
 **Associate Software Engineer / Cloud Architect**
-- ☁️ Managed multi-cloud infrastructure (AWS, Azure, GCP) with Terraform & Kubernetes
-- 📊 Achieved **99.6% uptime** and reduced operational costs by **23%**
-- 🔄 Migrated legacy apps to microservices using C#, .NET Core, and Golang
-- 🛡️ Reduced security incidents by **37%** through API security frameworks
+-  Managed multi-cloud infrastructure (AWS, Azure, GCP) with Terraform & Kubernetes
+-  Achieved **99.6% uptime** and reduced operational costs by **23%**
+-  Migrated legacy apps to microservices using C#, .NET Core, and Golang
+-  Reduced security incidents by **37%** through API security frameworks
 
-### 🏢 Genpact (May 2018 – Feb 2021)
+###  Genpact (May 2018 – Feb 2021)
 **Process Software Developer / Systems Architect**
-- 🏗️ Architected cloud-native platforms on AWS with Java/J2EE & Python Django
-- 🤖 Built automation platforms reducing manual effort by **34%**
-- 📈 Improved operational efficiency by **22%** through data analytics solutions
+-  Architected cloud-native platforms on AWS with Java/J2EE & Python Django
+-  Built automation platforms reducing manual effort by **34%**
+-  Improved operational efficiency by **22%** through data analytics solutions
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏦 Leela ETL REST API Platform
+###  ETL REST API Platform
 **High-Performance Financial Transaction System**
 
-- 💰 Processes **1M+ daily transactions**
-- ⚡ **38%** reduction in operational overhead
-- 🎯 **27%** improvement in API response times
-- 🔐 Built with Java Spring Boot, Kafka, AWS
+-  Processes **1M+ daily transactions**
+-  **38%** reduction in operational overhead
+-  **27%** improvement in API response times
+-  Built with Java Spring Boot, Kafka, AWS
 
 **Tech Stack:** Java, Spring Boot, Kafka, AWS, Oracle, Snowflake
 
 </td>
 <td width="50%">
 
-### 🤖 AI-Powered RAG System
+###  AI-Powered RAG System
 **Academic Research Literature Review**
 
-- 📚 Intelligent document querying & synthesis
-- 🧠 Local AI stack (LlamaIndex, Chroma, BGE)
-- 🎨 React-based intuitive interface
-- ✅ Institutional adoption prototype
+-  Intelligent document querying & synthesis
+-  Local AI stack (LlamaIndex, Chroma, BGE)
+-  React-based intuitive interface
+-  Institutional adoption prototype
 
 **Tech Stack:** React, Python, LlamaIndex, Ollama, Chroma
 
@@ -143,26 +143,26 @@
 <tr>
 <td width="50%">
 
-### 💼 AI CFO Platform
+###  AI CFO Platform
 **Real-time Financial Analytics**
 
-- 📊 AI-driven forecasting & anomaly detection
-- 🔄 Distributed data ingestion pipeline
-- 🎯 Role-based access controls
-- 📈 Interactive KPI dashboards
+-  AI-driven forecasting & anomaly detection
+-  Distributed data ingestion pipeline
+-  Role-based access controls
+-  Interactive KPI dashboards
 
 **Tech Stack:** React, Python, PHP, AI/ML Models
 
 </td>
 <td width="50%">
 
-### 🏆 Research Classification System
+###  Research Classification System
 **2nd Place - CSU Hackathon**
 
-- 🔬 AI-powered paper classification
-- 💬 React chatbot interface
-- 🎓 Health research insights
-- 🤖 Ollama3 integration
+-  AI-powered paper classification
+-  React chatbot interface
+-  Health research insights
+-  Ollama3 integration
 
 **Tech Stack:** React, Ollama3, ML Models
 
@@ -172,7 +172,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=architkgangal&theme=react&border_radius=10" alt="streak stats"/>
@@ -185,14 +185,14 @@
 
 ---
 
-## 🎓 Education
+##  Education
 
-**🎓 Master of Science in Computer Information Systems**  
+** Master of Science in Computer Information Systems**  
 *Colorado State University* | GPA: 3.93/4.0 | Aug 2024 – Dec 2025  
-📌 Concentration: Business Intelligence, Project Management  
-🏆 A+ grades in AI/ML courses | 2nd Place Hackathon Winner
+ Concentration: Business Intelligence, Project Management  
+ A+ grades in AI/ML courses | 2nd Place Hackathon Winner
 
-**📚 Key Coursework:**
+** Key Coursework:**
 - Enterprise Architecture Patterns
 - Advanced AI/ML & Deep Learning
 - Distributed Systems Design
@@ -201,21 +201,21 @@
 
 ---
 
-## 🏆 Certifications & Achievements
+##  Certifications & Achievements
 
-🎖️ **Professional Recognition:**
-- ⭐ Allstate Insurance: Excellence in Innovation Award for legacy system modernization
-- ⭐ Genpact: Outstanding Performance in cloud infrastructure architecture
-- 🥈 2nd Place - Colorado State University CS Hackathon 2024
+ **Professional Recognition:**
+-  Allstate Insurance: Excellence in Innovation Award for legacy system modernization
+-  Genpact: Outstanding Performance in cloud infrastructure architecture
+-  2nd Place - Colorado State University CS Hackathon 2024
 
-📜 **Ready for:**
-- ☁️ AWS Solutions Architect Certification
-- 🌐 Azure Solutions Architect Expert
-- ♨️ Java SE Certification
+ **Ready for:**
+-  AWS Solutions Architect Certification
+-  Azure Solutions Architect Expert
+-  Java SE Certification
 
 ---
 
-## 💻 Coding Profiles
+##  Coding Profiles
 
 <table>
 <tr>
@@ -242,7 +242,7 @@
 
 ---
 
-## 🎯 My Contributions
+##  My Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/architkgangal/architkgangal/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/architkgangal/architkgangal/blob/output/github-contribution-grid-snake.svg">
@@ -251,20 +251,20 @@
 
 ---
 
-## 🌟 Quote of the Day
+##  Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 I'm always excited to discuss:
-- 💼 Enterprise Architecture & Solution Design
-- ☁️ Cloud-Native Transformations
-- 🤖 AI/ML in Production Systems
-- 🏗️ Microservices & Distributed Systems
-- 📊 FinTech & InsurTech Innovation
+-  Enterprise Architecture & Solution Design
+-  Cloud-Native Transformations
+-  AI/ML in Production Systems
+-  Microservices & Distributed Systems
+-  FinTech & InsurTech Innovation
 
 **Feel free to reach out for collaboration, consulting, or just a tech chat!**
 
